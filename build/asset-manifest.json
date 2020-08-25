@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coffeeshop-v2/static/css/main.34fbadb2.chunk.css",
+    "main.js": "/coffeeshop-v2/static/js/main.0188d746.chunk.js",
+    "main.js.map": "/coffeeshop-v2/static/js/main.0188d746.chunk.js.map",
+    "runtime-main.js": "/coffeeshop-v2/static/js/runtime-main.ec1ba67a.js",
+    "runtime-main.js.map": "/coffeeshop-v2/static/js/runtime-main.ec1ba67a.js.map",
+    "static/js/2.e85b5d42.chunk.js": "/coffeeshop-v2/static/js/2.e85b5d42.chunk.js",
+    "static/js/2.e85b5d42.chunk.js.map": "/coffeeshop-v2/static/js/2.e85b5d42.chunk.js.map",
+    "index.html": "/coffeeshop-v2/index.html",
+    "precache-manifest.db37f1fa0cd95f9bf708f52d0f3cf608.js": "/coffeeshop-v2/precache-manifest.db37f1fa0cd95f9bf708f52d0f3cf608.js",
+    "service-worker.js": "/coffeeshop-v2/service-worker.js",
+    "static/css/main.34fbadb2.chunk.css.map": "/coffeeshop-v2/static/css/main.34fbadb2.chunk.css.map",
+    "static/js/2.e85b5d42.chunk.js.LICENSE.txt": "/coffeeshop-v2/static/js/2.e85b5d42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1ba67a.js",
+    "static/js/2.e85b5d42.chunk.js",
+    "static/css/main.34fbadb2.chunk.css",
+    "static/js/main.0188d746.chunk.js"
+  ]
+}
