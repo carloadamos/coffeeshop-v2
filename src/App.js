@@ -3,12 +3,36 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <div className="center">
-          <h1 className="super-hero">COFFEE SHOP V2</h1>
+    <div className="container">
+      <section id="hero">
+        <nav>
+          <ul>
+            <li>drinks</li>
+            <li>desserts</li>
+            <li>contact us</li>
+          </ul>
+        </nav>
+      </section>
+      <section id="drinks">
+        <div className="drinks__title">drinks</div>
+        <div className="drinks__products">
+          <div className="drinks__card" id="drink-1">
+            <div className="darken"></div>
+          </div>
+          <div className="drinks__card" id="drink-2">
+            <div className="darken"></div>
+          </div>
+          <div className="drinks__card" id="drink-3">
+            <div className="darken"></div>
+          </div>
         </div>
-      </header>
+      </section>
+      <section id="desserts">
+
+      </section>
+      <section id="footer">
+
+      </section>
     </div>
   );
 }
